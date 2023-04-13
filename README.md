@@ -1,1 +1,2 @@
-# anhalteweg
+# Anhalteweg
+Veranschaulichung des Anhaltewegs

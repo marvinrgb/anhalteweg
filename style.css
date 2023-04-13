@@ -18,8 +18,16 @@
 
 
 #reaction {
-  background-color: red;
+  background-color: rgba(255, 0, 0, 0.5);
 }
 #braking {
-  background-color: blue;
+  background-color: rgba(0, 0, 255, 0.5);
+}
+
+#car-con {
+  display: flex;
+}
+
+#fussball {
+  width: 105px;
 }
