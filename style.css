@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.frame {
+  height: 22px;
+  width: fit-content;
+  border: 1px solid black;
+  display: flex;
+}
+
+.balken {
+  height: 100%;
+  text-align: center;
+}
+
+
+#reaction {
+  background-color: red;
+}
+#braking {
+  background-color: blue;
+}
